@@ -2,7 +2,6 @@
 Generate your Openssl Certificate 
 
 ## Command for generate a new Openssl certificate
-
 ```
 certOpensslGenerator.sh ${CERTS_DIR} \
                             ${COUNTRY} \
